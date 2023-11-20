@@ -47,4 +47,4 @@
             syllabus.</li>
         </ul>
         <h2>Conclusion</h2>
-        <p>While the array of <a href="https://www.iquanta.in/test/iconcept">CAT study material</a> can be daunting, platforms like iQuanta are simplifying the journey by offering quality, affordability, and community support. As you embark on your CAT preparation, remember: that success is a blend of the right resources, strategy, and unwavering determination. Best of luck!</p>
+        <p>While the array of <a href="https://www.iquanta.in/test/free-cat-study-material">CAT study material</a> can be daunting, platforms like iQuanta are simplifying the journey by offering quality, affordability, and community support. As you embark on your CAT preparation, remember: that success is a blend of the right resources, strategy, and unwavering determination. Best of luck!</p>
