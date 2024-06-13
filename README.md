@@ -19,7 +19,7 @@
         <p>For DILR: Nishit K. Sinha's *Logical Reasoning and Data Interpretation for the CAT* is an aspirant favorite,
           striking a balance between easy and challenging problems.</p>
         <h2>3. iQuanta: Revolutionizing CAT Online Coaching</h2>
-        <p>iQuanta has emerged as a formidable player in the CAT online coaching arena. Here's why:</p>
+        <p>iQuanta has emerged as a formidable player in the CAT online <a href="https://coachingdaddy.com/">coaching</a> arena. Here's why:</p>
         <p>Interactive Live Classes: Unlike passive video lectures, iQuanta offers live sessions, promoting real-time
           interaction between instructors and students.</p>
         <p>Affordability: iQuanta's courses are priced reasonably, making top-tier CAT coaching accessible to many.</p>
